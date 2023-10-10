@@ -13,7 +13,7 @@ Swasthik here!!
 
 -  Computer Science & Engineering undergraduate student.
 
-- :soccer: Intellectually exploring planet Earth.
+- :soccer: Passionate about Football.
 
 - :mailbox: How to reach me:
   <div id="badges">
