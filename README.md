@@ -9,11 +9,11 @@ Swasthik here!!
 
 #### About Me :
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a technology enthusiast from India.
+- <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="30"> I am a technology enthusiast from India.
 
 -  Computer Science & Engineering undergraduate student.
 
-- :telescope: Intellectually exploring planet Earth.
+- :soccer: Intellectually exploring planet Earth.
 
 - :mailbox: How to reach me:
   <div id="badges">
